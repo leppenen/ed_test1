@@ -3,7 +3,7 @@ email: #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     Test course for the Academic University.
  
-baseurl: "orca_web_template"   # specify the subpath of your site
+baseurl: "ed_test1"   # specify the subpath of your site
 url: "https://leppenen.github.io/ed_test1/" # the base hostname & protocol for YOUR site, e.g. http://example.com
 twitter_username: #
 github_username: #
